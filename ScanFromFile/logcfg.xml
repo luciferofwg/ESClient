@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LogConf>
+<!-- true / false-->
+
+<!--- DEBUG INFO NOTICE WARN ERROR	CRITICAL -->
+	<Config console = "true" filename="log/default.log"  level="DEBUG"  maxsize="10485760" maxlines = "100000" maxrolls="10" color="True" />
+</LogConf>

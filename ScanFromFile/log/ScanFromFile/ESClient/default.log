@@ -1,0 +1,84 @@
+2019/08/12 09:41:12 [DEBUG] [ESClient.go:97] Elasticsearch 的版本是：6.7.0
+2019/08/12 09:41:12 [INFO] [ESClient.go:112] ES客户端初始化完成
+2019/08/12 09:41:13 [INFO] [ESClient.go:135] bulk数据发送 线程 启动
+2019/08/12 09:42:49 [DEBUG] [ESClient.go:97] Elasticsearch 的版本是：6.7.0
+2019/08/12 09:42:49 [INFO] [ESClient.go:112] ES客户端初始化完成
+2019/08/12 09:42:49 [INFO] [ESClient.go:135] bulk数据发送 线程 启动
+2019/08/12 09:44:01 [DEBUG] [ESClient.go:97] Elasticsearch 的版本是：6.7.0
+2019/08/12 09:44:01 [INFO] [ESClient.go:112] ES客户端初始化完成
+2019/08/12 09:44:01 [INFO] [ESClient.go:135] bulk数据发送 线程 启动
+2019/08/12 09:44:38 [DEBUG] [ESClient.go:97] Elasticsearch 的版本是：6.7.0
+2019/08/12 09:44:38 [INFO] [ESClient.go:112] ES客户端初始化完成
+2019/08/12 09:44:38 [INFO] [ESClient.go:135] bulk数据发送 线程 启动
+2019/08/12 09:48:15 [DEBUG] [ESClient.go:97] Elasticsearch 的版本是：6.7.0
+2019/08/12 09:48:15 [INFO] [ESClient.go:112] ES客户端初始化完成
+2019/08/12 09:48:15 [INFO] [ESClient.go:135] bulk数据发送 线程 启动
+2019/08/12 09:49:44 [DEBUG] [ESClient.go:97] Elasticsearch 的版本是：6.7.0
+2019/08/12 09:49:44 [INFO] [ESClient.go:112] ES客户端初始化完成
+2019/08/12 09:49:44 [INFO] [ESClient.go:135] bulk数据发送 线程 启动
+2019/08/12 09:54:49 [DEBUG] [ESClient.go:97] Elasticsearch 的版本是：6.7.0
+2019/08/12 09:54:49 [INFO] [ESClient.go:112] ES客户端初始化完成
+2019/08/12 09:54:49 [INFO] [ESClient.go:135] bulk数据发送 线程 启动
+2019/08/12 09:54:49 [DEBUG] [ESClient.go:142] 开始申请BulkIndexRequest
+2019/08/12 09:54:49 [DEBUG] [ESClient.go:145] 当前UUID值：2e5c817d-c4b1-4659-a5fd-fb2ddef1e78d
+2019/08/12 09:54:49 [DEBUG] [ESClient.go:142] 开始申请BulkIndexRequest
+2019/08/12 09:54:49 [DEBUG] [ESClient.go:145] 当前UUID值：b4f784da-c50b-4480-a770-4deb5ee129a1
+2019/08/12 09:54:49 [DEBUG] [ESClient.go:142] 开始申请BulkIndexRequest
+2019/08/12 09:54:49 [DEBUG] [ESClient.go:145] 当前UUID值：1b58a29d-56a6-4ba3-babb-dbb6deec0e94
+2019/08/12 09:57:14 [DEBUG] [ESClient.go:97] Elasticsearch 的版本是：6.7.0
+2019/08/12 09:57:14 [INFO] [ESClient.go:112] ES客户端初始化完成
+2019/08/12 09:57:14 [INFO] [ESClient.go:135] bulk数据发送 线程 启动
+2019/08/12 09:57:14 [DEBUG] [ESClient.go:142] 开始申请BulkIndexRequest
+2019/08/12 09:57:14 [DEBUG] [ESClient.go:145] 当前UUID值：c9e17fda-a890-45d6-a59c-bec65a19c2ad
+2019/08/12 09:57:14 [DEBUG] [ESClient.go:142] 开始申请BulkIndexRequest
+2019/08/12 09:57:14 [DEBUG] [ESClient.go:145] 当前UUID值：c48294f9-f635-4a75-97fc-9021a46f9101
+2019/08/12 09:57:14 [DEBUG] [ESClient.go:156] ES客户端开始退出
+2019/08/12 09:57:14 [DEBUG] [ESClient.go:142] 开始申请BulkIndexRequest
+2019/08/12 09:57:14 [DEBUG] [ESClient.go:145] 当前UUID值：17e02e34-183c-43f5-bfed-626ba2be16ad
+2019/08/12 09:57:14 [INFO] [ESClient.go:133] bulk数据发送 线程 退出
+2019/08/12 09:58:59 [DEBUG] [ESClient.go:97] Elasticsearch 的版本是：6.7.0
+2019/08/12 09:58:59 [INFO] [ESClient.go:112] ES客户端初始化完成
+2019/08/12 09:58:59 [INFO] [ESClient.go:135] bulk数据发送 线程 启动
+2019/08/12 09:58:59 [DEBUG] [ESClient.go:142] 开始申请BulkIndexRequest
+2019/08/12 09:58:59 [DEBUG] [ESClient.go:145] 当前UUID值：2a702d5b-3e89-4404-a5ea-7fe4109f45ff
+2019/08/12 09:58:59 [DEBUG] [ESClient.go:142] 开始申请BulkIndexRequest
+2019/08/12 09:58:59 [DEBUG] [ESClient.go:145] 当前UUID值：a1c92214-5409-48ab-a7d7-2c09591afdc1
+2019/08/12 09:58:59 [DEBUG] [ESClient.go:156] ES客户端开始退出
+2019/08/12 09:58:59 [DEBUG] [ESClient.go:142] 开始申请BulkIndexRequest
+2019/08/12 09:58:59 [DEBUG] [ESClient.go:145] 当前UUID值：d653849c-129a-42bf-a7c7-2a264abd0ed0
+2019/08/12 09:58:59 [INFO] [ESClient.go:133] bulk数据发送 线程 退出
+2019/08/12 09:59:55 [DEBUG] [ESClient.go:97] Elasticsearch 的版本是：6.7.0
+2019/08/12 09:59:55 [INFO] [ESClient.go:112] ES客户端初始化完成
+2019/08/12 09:59:55 [INFO] [ESClient.go:135] bulk数据发送 线程 启动
+2019/08/12 09:59:55 [DEBUG] [ESClient.go:142] 开始申请BulkIndexRequest
+2019/08/12 09:59:55 [DEBUG] [ESClient.go:145] 当前UUID值：e235e8de-f0ee-4540-a873-68dcead15557
+2019/08/12 09:59:55 [DEBUG] [ESClient.go:142] 开始申请BulkIndexRequest
+2019/08/12 09:59:55 [DEBUG] [ESClient.go:145] 当前UUID值：18072a3e-bfea-4add-a4f7-ea1e5e583883
+2019/08/12 09:59:55 [DEBUG] [ESClient.go:156] ES客户端开始退出
+2019/08/12 09:59:55 [DEBUG] [ESClient.go:142] 开始申请BulkIndexRequest
+2019/08/12 09:59:55 [DEBUG] [ESClient.go:145] 当前UUID值：ab30cb7a-9736-4a49-bbfd-ba0278ba6c84
+2019/08/12 09:59:55 [INFO] [ESClient.go:133] bulk数据发送 线程 退出
+2019/08/12 10:01:59 [DEBUG] [ESClient.go:97] Elasticsearch 的版本是：6.7.0
+2019/08/12 10:01:59 [INFO] [ESClient.go:112] ES客户端初始化完成
+2019/08/12 10:01:59 [INFO] [ESClient.go:135] bulk数据发送 线程 启动
+2019/08/12 10:01:59 [DEBUG] [ESClient.go:156] ES客户端开始退出
+2019/08/12 10:01:59 [INFO] [ESClient.go:133] bulk数据发送 线程 退出
+2019/08/12 10:04:24 [DEBUG] [ESClient.go:97] Elasticsearch 的版本是：6.7.0
+2019/08/12 10:04:24 [INFO] [ESClient.go:112] ES客户端初始化完成
+2019/08/12 10:04:24 [INFO] [ESClient.go:135] bulk数据发送 线程 启动
+2019/08/12 10:04:27 [DEBUG] [ESClient.go:156] ES客户端开始退出
+2019/08/12 10:04:27 [INFO] [ESClient.go:133] bulk数据发送 线程 退出
+2019/08/12 10:26:44 [DEBUG] [ESClient.go:97] Elasticsearch 的版本是：6.7.0
+2019/08/12 10:26:44 [INFO] [ESClient.go:112] ES客户端初始化完成
+2019/08/12 10:26:44 [INFO] [ESClient.go:135] bulk数据发送 线程 启动
+2019/08/12 10:26:47 [DEBUG] [ESClient.go:156] ES客户端开始退出
+2019/08/12 10:26:47 [INFO] [ESClient.go:133] bulk数据发送 线程 退出
+2019/08/12 10:27:23 [DEBUG] [ESClient.go:97] Elasticsearch 的版本是：6.7.0
+2019/08/12 10:27:23 [INFO] [ESClient.go:112] ES客户端初始化完成
+2019/08/12 10:27:23 [INFO] [ESClient.go:135] bulk数据发送 线程 启动
+2019/08/12 10:29:10 [DEBUG] [ESClient.go:97] Elasticsearch 的版本是：6.7.0
+2019/08/12 10:29:10 [INFO] [ESClient.go:112] ES客户端初始化完成
+2019/08/12 10:29:10 [INFO] [ESClient.go:135] bulk数据发送 线程 启动
+2019/08/12 10:29:57 [DEBUG] [ESClient.go:97] Elasticsearch 的版本是：6.7.0
+2019/08/12 10:29:57 [INFO] [ESClient.go:112] ES客户端初始化完成
+2019/08/12 10:29:57 [INFO] [ESClient.go:135] bulk数据发送 线程 启动
